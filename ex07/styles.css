@@ -42,6 +42,7 @@ header {
 
 img.avatar {
   margin-top: 20px;
+  border-radius : 100%;
 }
 
 .info ul {
